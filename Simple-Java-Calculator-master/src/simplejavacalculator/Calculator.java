@@ -8,7 +8,7 @@
  * @copyright   Copyright Pierre-Henry SORIA, All Rights Reserved.
  * @license     Apache (http://www.apache.org/licenses/LICENSE-2.0)
  */
-
+//Додаю номентарі і створюю версію Alfa 0.01
 package simplejavacalculator;
 
 import static java.lang.Double.NaN;
